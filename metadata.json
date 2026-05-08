@@ -1,0 +1,6 @@
+{
+  "name": "QuickTable HTML",
+  "description": "Convert pasted tables from Excel, Sheets, or CSV into clean, customizable HTML code with live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
